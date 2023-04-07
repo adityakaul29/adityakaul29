@@ -1,45 +1,16 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@adityakaul29 
-bhanmrinal
-/
-bhanmrinal
-Public
-Fork your own copy of bhanmrinal/bhanmrinal
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-bhanmrinal/readme.md
-@bhanmrinal
-bhanmrinal Update readme.md
-Latest commit d6e2bba 1 hour ago
- History
- 1 contributor
-33 lines (25 sloc)  5.41 KB
- 
-
-<h1 align="center">Hi 👋, I'm Mrinal</h1>
-🔭 I’m currently working on "Neural LOLgorithm" (https://github.com/bhanmrinal/Computational-Humor)<br>
-🤝 I’m looking for help with learning Development & Graphic Design <br>
-🌱 I’m currently learning Full - Stack Development <br>
+<h1 align="center">Hi 👋, I'm Aditya</h1>
+🔭 I’m currently working on "" <br>
+🤝 I’m looking for help with learning Web 3.0 & Blockchain<br>
+🌱 I’m currently learning Web Development <br>
 
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://twitter.com/oompaalompaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oompaalompaa" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/mrinal-bhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinal bhan" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/oompalompa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="oompalompa" height="30" width="40" /></a>
-<a href="https://discord.gg/jigsaw#2539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jigsaw#2539" height="30" width="40" /></a>
-<a href="mailto:bhanmrinal@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oompaalompaa" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinal bhan" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="oompalompa" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jigsaw#2539" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" height="30" width="40" /></a>
 </p> 
 
 
@@ -60,18 +31,3 @@ Latest commit d6e2bba 1 hour ago
 <img src="https://leetcard.jacoblin.cool/oompalompa?theme=dark" /> -->
 <!-- </p>
  -->
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-bhanmrinal/readme.md at main · bhanmrinal/bhanmrinal
