@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-🔭 I’m currently working on "" <br>
+🔭 I’m currently working on "Data Structures and Algorithm" <br>
 🤝 I’m looking for help with learning Web 3.0 & Blockchain<br>
 🌱 I’m currently learning Web Development <br>
 
